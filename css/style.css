@@ -1,0 +1,45 @@
+/*.container {
+  padding-top: 2%;
+}
+.upper {
+  background-color: #A2DACC;
+  height:40%;
+  width:100%;
+  z-index: -1000;
+}
+
+
+/*.down {
+  height:35%;
+  width:80%;
+  margin:-15vh 0 0 15% !important;
+}*/
+
+
+
+
+
+
+/*.title {
+  margin-left: 43%;
+}/**/
+.upper {
+  background-color: #A2DACC;
+  height:40%;
+  width:100%;
+}
+.box{
+
+}
+.row{
+  padding-left: 20%;
+  margin-top: -25%;
+
+}
+@media screen and (max-width: 2000px) and (min-width: 700px){
+  .row{
+    padding-left: 30%;
+    margin-top: -8%;
+  }
+
+}
